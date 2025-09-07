@@ -12,7 +12,7 @@ An interactive **Power BI dashboard** designed to analyze Uber ride data, provid
 ##  Technology Stack
 
 * **Power BI** – for interactive data visualization.
-* **Uber ride dataset** – ().
+* **Uber ride dataset** – (Uber Trip Details and Location Table are the datasets).
 
 ##  Repository Contents
 
@@ -35,12 +35,8 @@ An interactive **Power BI dashboard** designed to analyze Uber ride data, provid
 
 ##  Dashboard Preview
 
-*(You can add screenshots of your Power BI dashboard here for better visualization.)*
+*![image alt](https://github.com/Suhas-S2004/IPL-Analysis-2008-2025-/blob/771d3165c4f6bbacdc3b716e6a64a7ab7087edc5/Screenshot%20.png)*
 
 
 
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
 
----
-
-👉 Do you want me to also **add sample screenshots section** (with placeholders) so your GitHub README looks more visual?
