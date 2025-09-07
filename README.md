@@ -1,51 +1,46 @@
-# Uber Analysis -  Power BI
-An interactive Power BI dashboard designed to analyze Uber ride data, providing insights into trips, time patterns, popular pickup locations, and other key metrics.
+# Uber Dashboard - PowerBI
+An interactive **Power BI dashboard** designed to analyze Uber ride data, providing insights into trips, time patterns, popular pickup locations, and other key metrics.
 
-Features
+##  Features
 
-Trip volume trends over time (daily, weekly, monthly).
+* Trip volume trends over time (daily, weekly, monthly).
+* Popular pickup and drop-off locations.
+* Peak hours and day-of-week analysis.
+* Ride distance and fare distribution.
+* Dynamic filters for date, time, and location.
 
-Popular pickup and drop-off locations.
+##  Technology Stack
 
-Peak hours and day-of-week analysis.
+* **Power BI** – for interactive data visualization.
+* **Uber ride dataset** – ().
 
-Ride distance and fare distribution.
+##  Repository Contents
 
-Dynamic filters for date, time, and location.
+* `Uber Dashboard.pbix` → Power BI dashboard file.
+* `README.md` → Project documentation (this file).
 
 
-Technology Stack
+##  Getting Started
 
-Power BI – for interactive data visualization.
+1. Clone/download this repository.
+2. Open `Uber Dashboard.pbix` in **Power BI Desktop**.
+3. Refresh the data source if required (update dataset path).
+4. Explore interactive reports and dashboards.
 
-Uber ride dataset – (provide dataset link or mention if private).
+##  Use Cases
 
- Repository Contents
+* Identifying peak demand times for Uber rides.
+* Analyzing location-based demand and supply.
+* Supporting decision-making for ride allocation and pricing strategies.
 
-Uber Dashboard.pbix → Power BI dashboard file.
+##  Dashboard Preview
 
-README.md → Project documentation (this file).
+*(You can add screenshots of your Power BI dashboard here for better visualization.)*
 
-(Optional) Data files if you want to share them (CSV/Excel).
 
- Getting Started
 
-Clone/download this repository.
+This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
 
-Open Uber Dashboard.pbix in Power BI Desktop.
+---
 
-Refresh the data source if required (update dataset path).
-
-Explore interactive reports and dashboards.
-
-📌 Use Cases
-
-Identifying peak demand times for Uber rides.
-
-Analyzing location-based demand and supply.
-
-Supporting decision-making for ride allocation and pricing strategies.
-
-📸 Dashboard Preview
-
-(You can add screenshots of your Power BI dashboard here for better visualization.)
+👉 Do you want me to also **add sample screenshots section** (with placeholders) so your GitHub README looks more visual?
